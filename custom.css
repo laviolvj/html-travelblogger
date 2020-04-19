@@ -1,0 +1,101 @@
+/*!
+ * Start Bootstrap - Scrolling Nav (https://startbootstrap.com/template-overviews/scrolling-nav)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
+ */
+
+/* KEEP THESE STYLES */
+#mainNav {
+    font-family: 'Rufina', serif;
+    
+}
+
+.nav-item {
+    font-family: 'Rufina', serif;
+    
+}
+
+@media (min-width: 992px) {
+  .top {
+    padding: 100px 30px 20px 30px;
+      background: white;
+  }
+
+section {
+  padding: 300px 0;
+}
+
+body {
+    font-family: 'Rufina', serif;
+        
+    }
+
+h1 {
+    font-size: 80px;
+        
+    }
+    
+.lead {
+    font-size: 16px;
+    }
+    
+h2 {
+    font-size: 30px;
+    padding-left: 20px;
+    }
+    
+h4 {
+    font-size: 16px;
+    padding-left: 20px;
+    }
+    
+#about {
+    padding-top: 20px;
+    }
+    
+.gallery {
+-webkit-column-count: 3;
+-moz-column-count: 3;
+column-count: 3;
+-webkit-column-width: 33%;
+-moz-column-width: 33%;
+column-width: 33%; 
+padding: 20px 20px 10px 20px;
+border-bottom: solid;}
+    
+.gallery .pics {
+-webkit-transition: all 350ms ease;
+transition: all 350ms ease; }
+    
+.gallery .animation {
+-webkit-transform: scale(1);
+-ms-transform: scale(1);
+transform: scale(1); }
+
+@media (max-width: 450px) {
+.gallery {
+-webkit-column-count: 1;
+-moz-column-count: 1;
+column-count: 1;
+-webkit-column-width: 100%;
+-moz-column-width: 100%;
+column-width: 100%;
+}
+}
+
+@media (max-width: 400px) {
+.btn.filter {
+padding-left: 1.1rem;
+padding-right: 1.1rem;
+}
+}
+    
+    
+    
+    
+    
+    
+    
+    
+    
+/* END OF KEEP THESE STYLES */
